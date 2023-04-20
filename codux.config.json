@@ -1,0 +1,6 @@
+{
+  "cssCompilation": {
+    "activateCssModules": true,
+    "cssModulesExt": [".module.css", ".modules.css"]
+  }
+}
